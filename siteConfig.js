@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London After Midnight',
-  shortName: 'LAM',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-lam.vaporwavy.io', // Domain of your site without prefix!
+  name: "Lakshay Verma's Portfolio Site",
+  shortName: 'LVPS',
+  description: 'A bold, minimal theme for Portfolio, focused on clean typography & beautiful imagery.',
+  url: 'https://lakshay.dev', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Vaporwavy',
-  twitter: ''
+  author: 'Lakshay Verma',
+  twitter: 'lakshay__verma'
 }
